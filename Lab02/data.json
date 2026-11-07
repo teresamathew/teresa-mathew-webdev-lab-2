@@ -1,0 +1,26 @@
+{
+    "topic": "Books Read by Genre",
+    "years": {
+        "2023": {
+            "Fantasy": 12,
+            "Mystery": 8,
+            "Science Fiction": 6,
+            "Romance": 10,
+            "Nonfiction": 4
+        },
+        "2024": {
+            "Fantasy": 15,
+            "Mystery": 11,
+            "Science Fiction": 9,
+            "Romance": 13,
+            "Nonfiction": 7
+        },
+        "2025": {
+            "Fantasy": 18,
+            "Mystery": 14,
+            "Science Fiction": 12,
+            "Romance": 16,
+            "Nonfiction": 10
+        }
+    }
+}
